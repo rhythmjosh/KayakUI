@@ -98,6 +98,9 @@ form input{
    font-family:Verdana;
    padding:8px;
 }
+.bottom_area h2, .bottom_area ul{
+    margin-left:80px;
+}
 .other_options ul li{
     list-style-type:none;
     border: 1px solid black;
