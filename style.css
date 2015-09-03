@@ -92,7 +92,8 @@ form input{
 }
 .bottom_area{
     background-color:#f2f2f2;
-    margin-top:500px;
+    margin-top:400px;
+    font:sans-serif;
 }
 .other_options ul li{
     list-style-type:none;
