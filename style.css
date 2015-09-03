@@ -83,10 +83,11 @@ form input{
 }
 .button{
     color:white;
+    text-align:center;
     background-color:darkorange;
     text-decoration: none;
     height:40px;
-    width:80px;
-    border-radius:35px;
+    width:90px;
+    border-radius:22px;
 }
 
