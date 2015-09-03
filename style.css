@@ -93,4 +93,13 @@ form input{
 .bottom_area{
     background-color:#f2f2f2;
 }
+.other_options ul li{
+    list-style-type:none;
+    border: 1px solid black;
+    background-color:darkgrey;
+    color:white;
+    height:185px;
+    width:250px;
+    margin:5px;
+}
 
