@@ -93,7 +93,10 @@ form input{
 .bottom_area{
     background-color:#f2f2f2;
     margin-top:80px;
-    font:sans-serif;
+}
+.bottom-area h2{
+   font-family:Verdana;
+   padding:8px;
 }
 .other_options ul li{
     list-style-type:none;
