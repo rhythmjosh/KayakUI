@@ -85,5 +85,7 @@ form input{
     color:white;
     background-color:darkorange;
     text-decoration: none;
+    height:36px;
+    width:50px;
 }
 
